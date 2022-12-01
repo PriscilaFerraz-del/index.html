@@ -1,12 +1,13 @@
-body {background-color:black;
+body {background-color:rgb(255, 255, 255);
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
-    h1   {color: white;}
-    h3   {color: white;}
-    h2   {color:white;}
-    em   {color: gray;}
-    li   {color: white;}
-    p    {color: white;}
-    dd   {color: gray;}
-    dt   {color: gray;}
-    p    {color: gray;}
-    li   {color:white;}
+    h1   {color: white;  
+    background-color: #0000ff;}
+    h3   {color: black;}
+    h2   {color: black;}
+    em   {color: black;}
+    li   {color: black;}
+    p    {color: black;}
+    dd   {color: black;}
+    dt   {color: black;}
+    p    {color: black;}
+    li   {color: black;}
