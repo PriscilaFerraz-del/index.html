@@ -1,8 +1,9 @@
-body {background-color:rgb(255, 255, 255);
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
-    h1   {color: white;  
-    background-color: #0000ff;}
-    h3   {color: black;}
+body {background-color:#ffffff;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+background-color:#F5DEC0 ;}
+    h1   {color: white;
+        background-color:#011FFF;}
+    h3   {color: #3800EB;}
     h2   {color: black;}
     em   {color: black;}
     li   {color: black;}
