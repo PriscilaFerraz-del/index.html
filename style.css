@@ -1,4 +1,4 @@
-body {background-image: linear-gradient(to right,#e1d7d7,#e1d7d7) ;
+body {background-image: linear-gradient(to right,rgb(244, 244, 244),rgb(244, 244, 244));
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
     h1   {color: white;
         background-color:#050D46;
@@ -16,7 +16,7 @@ body {background-image: linear-gradient(to right,#e1d7d7,#e1d7d7) ;
     li   {color: black;}
    main {margin:auto;
 width:900px;
-background-color:#e1d7d7;
+background-color:rgb(244, 244, 244);
 padding:10px;
 background-attachment: fixed;
 }
